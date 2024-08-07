@@ -32,7 +32,7 @@ The dataset includes the following features:
 ## Setup and Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/dhanushkorada/Titanic-Survival-Prediction-Using-Machine-Learning/.git
+    git clone https://github.com/dhanushkorada/Titanic-Survival-Prediction.git
     cd Titanic-Survival-Prediction
     ```
 2. Install the required dependencies:
