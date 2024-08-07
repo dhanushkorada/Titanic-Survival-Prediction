@@ -1,4 +1,4 @@
-# Titanic Survival Prediction Using Machine Learning
+# Titanic Survival Prediction
 
 ## Table of Contents
 
