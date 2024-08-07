@@ -47,7 +47,7 @@ The dataset includes the following features:
 - Scaled the features using `StandardScaler`.
 
 ## Model Selection
-- Implemented a K-Nearest Neighbors (KNN) classifier to predict survival outcomes.
+- Implemented a RBF Kernel SVM to predict survival outcomes.
 
 ## Results
 - Predictions were made on the test set, and results were saved to `prediction.csv`.
