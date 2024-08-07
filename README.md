@@ -50,7 +50,7 @@ The dataset includes the following features:
 - Implemented a RBF Kernel SVM to predict survival outcomes.
 
 ## Results
-- Predictions were made on the test set, and results were saved to `prediction.csv`.
+- Predictions were made on the test set, and results were saved to `prediction.csv`. The RBF Kernel SVM achieved an accuracy of 78% on the test set.
 
 ## License
 This project is licensed under the MIT License.
